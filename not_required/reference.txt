@@ -1,0 +1,6 @@
+https://towardsdatascience.com/machine-learning-in-production-keras-flask-docker-and-heroku-933b5f885459
+
+
+deploy
+
+https://becominghuman.ai/deploying-the-machine-learning-model-in-heroku-using-flask-549c9ad0a47a

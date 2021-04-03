@@ -30,9 +30,3 @@ def predict(image):
     processed_image = preprocess_image(image,target_size=(224,224))
     prediction = model.predict(processed_image).tolist()
     return prediction
-
-
-if __name__ == '__main__':
-    image = load_img('trial.jpg')
-    prediction = predict(image)
-    print(prediction)

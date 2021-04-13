@@ -10,3 +10,4 @@ Flask-RESTful
 Flask-SQLAlchemy
 uwsgi
 gunicorn
+flask-cors
